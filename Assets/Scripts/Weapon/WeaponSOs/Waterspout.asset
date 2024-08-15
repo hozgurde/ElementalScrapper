@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72794f2b8296e99498564b815dd65e7e, type: 3}
+  m_Name: Waterspout
+  m_EditorClassIdentifier: 
+  name: Waterspout
+  type: 0200000003000000
+  damage: 14
+  durability: 3
+  weapon: {fileID: 1889403963498371494, guid: 867e8c318c1a8cf4dbc8fc8a17c2abff, type: 3}
+  animationDelay: 1
+  attackDelay: 1
+  holdRadius: 0.6
+  isHoldWeapon: 0
+  rotatable: 1
+  projectileSpeed: 0
+  projectile: {fileID: 0}
+  projectileLife: 0
+  attackSFX: {fileID: 8300000, guid: d2d2336f72080674fa3ee4611548ec95, type: 3}
+  attackVolume: 1
+  impactSFX: {fileID: 8300000, guid: 7f9e9e9b5cbd2ec4d94e0ef8e2020d1e, type: 3}
+  impactVolume: 1

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72794f2b8296e99498564b815dd65e7e, type: 3}
+  m_Name: ThunderExplosionStaff
+  m_EditorClassIdentifier: 
+  name: ThunderExplosionStaff
+  type: 0000000004000000
+  damage: 15
+  durability: 4
+  weapon: {fileID: 6766599116393254872, guid: a691605b36adfc6478263a6b0c0f7860, type: 3}
+  animationDelay: 0
+  attackDelay: 0.5
+  holdRadius: 0.6
+  isHoldWeapon: 1
+  rotatable: 0
+  projectileSpeed: 5
+  projectile: {fileID: 6033795678057792306, guid: 48fbe50ade922424e9d569d017067742, type: 3}
+  projectileLife: 0.5
+  attackSFX: {fileID: 8300000, guid: 0e50d210549bd9249862a400d833c5c1, type: 3}
+  attackVolume: 0.9
+  impactSFX: {fileID: 8300000, guid: 107b976669ce3a64aa8aecf93de52639, type: 3}
+  impactVolume: 0.6

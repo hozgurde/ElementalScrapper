@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72794f2b8296e99498564b815dd65e7e, type: 3}
+  m_Name: Sandstorm
+  m_EditorClassIdentifier: 
+  name: Sandstorm
+  type: 0100000003000000
+  damage: 8
+  durability: 4
+  weapon: {fileID: 1306276101794204327, guid: 8e1a289558ce3b745b617ff26da50951, type: 3}
+  animationDelay: 0
+  attackDelay: 1
+  holdRadius: 0.5
+  isHoldWeapon: 0
+  rotatable: 0
+  projectileSpeed: 5
+  projectile: {fileID: 7682298466697862480, guid: e2f8264487078774daf131553601f54c, type: 3}
+  projectileLife: 4
+  attackSFX: {fileID: 8300000, guid: 50842fc27cc0dab499aa5bee3935653e, type: 3}
+  attackVolume: 1
+  impactSFX: {fileID: 8300000, guid: 5987cf8e159a06a4e9b4c9fdb3fe7245, type: 3}
+  impactVolume: 1

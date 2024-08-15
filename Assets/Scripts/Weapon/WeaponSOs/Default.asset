@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72794f2b8296e99498564b815dd65e7e, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  name: Default
+  type: 0500000005000000
+  damage: 4
+  durability: 3
+  weapon: {fileID: 7848653824035717767, guid: 1f629c7f798e4df44a93e83c8c7f315d, type: 3}
+  attackDelay: 2
+  holdRadius: 1
+  isHoldWeapon: 0
+  rotatable: 1
+  projectileSpeed: 0
+  projectile: {fileID: 0}
+  projectileLife: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72794f2b8296e99498564b815dd65e7e, type: 3}
+  m_Name: StormCloud
+  m_EditorClassIdentifier: 
+  name: StormCloud
+  type: 0300000004000000
+  damage: 9
+  durability: 4
+  weapon: {fileID: 3113371047086009792, guid: a2081567584223442befd147f825d371, type: 3}
+  animationDelay: 0
+  attackDelay: 1
+  holdRadius: 0.6
+  isHoldWeapon: 0
+  rotatable: 1
+  projectileSpeed: 10
+  projectile: {fileID: 9000851628888281702, guid: d0609cb8f25d163408bfb1a73a953d2e, type: 3}
+  projectileLife: 3
+  attackSFX: {fileID: 8300000, guid: 1d29a701b6f0d8448b0e310469bda3cc, type: 3}
+  attackVolume: 1
+  impactSFX: {fileID: 8300000, guid: 3631ed4b0829608439148b44e0f26f2e, type: 3}
+  impactVolume: 1

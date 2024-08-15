@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainGame(Ozkan).unity
+    guid: 2b658f94e8e0b1b4cb137a9bfb06b102
   m_configObjects: {}

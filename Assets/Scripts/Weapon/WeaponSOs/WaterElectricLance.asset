@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72794f2b8296e99498564b815dd65e7e, type: 3}
+  m_Name: WaterElectricLance
+  m_EditorClassIdentifier: 
+  name: WaterElectricLance
+  type: 0200000004000000
+  damage: 15
+  durability: 4
+  weapon: {fileID: 3393439127603399936, guid: 4adbeb1f581ffc944802df089c0bb96f, type: 3}
+  animationDelay: 0.42
+  attackDelay: 1
+  holdRadius: 0.4
+  isHoldWeapon: 0
+  rotatable: 1
+  projectileSpeed: 0
+  projectile: {fileID: 0}
+  projectileLife: 0
+  attackSFX: {fileID: 8300000, guid: d1be6eb57230e2d4c807cf5bea0cd8c6, type: 3}
+  attackVolume: 1
+  impactSFX: {fileID: 8300000, guid: 185675c10d269574083418b99fd5c8e1, type: 3}
+  impactVolume: 0.6

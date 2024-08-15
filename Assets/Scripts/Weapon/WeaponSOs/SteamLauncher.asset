@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72794f2b8296e99498564b815dd65e7e, type: 3}
+  m_Name: SteamLauncher
+  m_EditorClassIdentifier: 
+  name: SteamLauncher
+  type: 0000000002000000
+  damage: 10
+  durability: 3
+  weapon: {fileID: 5884855896122881399, guid: 6e303ab09cd7d7f4d8346fe5e95f4cc4, type: 3}
+  animationDelay: 0.4
+  attackDelay: 0.5
+  holdRadius: 0.6
+  isHoldWeapon: 0
+  rotatable: 0
+  projectileSpeed: 6
+  projectile: {fileID: 4578555356940875159, guid: e813cb76aaea1c542acd7d09403ee197, type: 3}
+  projectileLife: 4
+  attackSFX: {fileID: 8300000, guid: 93574680a10303340a8a4fe58a027d39, type: 3}
+  attackVolume: 1
+  impactSFX: {fileID: 8300000, guid: 3ee213193992e4f42966bc652b259279, type: 3}
+  impactVolume: 1
